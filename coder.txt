@@ -1,2 +1,6 @@
 begin
 start_step
+
+we are cooking
+
+end_step
